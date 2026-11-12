@@ -1,0 +1,397 @@
+﻿ags,municipality,district,planning_region,area_km2,total_gwh,industry_gwh,commerce_services_gwh,households_gwh,density_gwh_per_km2
+05111000,"Düsseldorf","Düsseldorf","Düsseldorf",216.8,3454,561,1810,1083,15.932
+05112000,"Duisburg","Duisburg","Regionalverband Ruhr",232.3,6365,4889,597,879,27.400
+05113000,"Essen","Essen","Regionalverband Ruhr",209.6,3223,1198,1019,1006,15.377
+05114000,"Krefeld","Krefeld","Düsseldorf",136.1,2603,1891,306,405,19.126
+05116000,"Mönchengladbach","Mönchengladbach","Düsseldorf",170,1013,176,369,468,5.959
+05117000,"Mülheim an der Ruhr","Mülheim a.d. Ruhr","Regionalverband Ruhr",90.9,660,146,211,303,7.261
+05119000,"Oberhausen","Oberhausen","Regionalverband Ruhr",77.2,1214,600,240,374,15.725
+05120000,"Remscheid","Remscheid","Düsseldorf",73.8,534,215,120,199,7.236
+05122000,"Solingen","Solingen","Düsseldorf",88.7,638,194,155,290,7.193
+05124000,"Wuppertal","Wuppertal","Düsseldorf",167.8,1487,411,448,627,8.862
+05154004,"Bedburg-Hau","Kleve","Düsseldorf",60.7,50,8,18,24,0.824
+05154008,"Emmerich am Rhein","Kleve","Düsseldorf",80.1,160,73,31,56,1.998
+05154012,"Geldern","Kleve","Düsseldorf",97.3,162,46,55,61,1.665
+05154016,"Goch","Kleve","Düsseldorf",115.4,135,41,33,61,1.170
+05154020,"Issum","Kleve","Düsseldorf",54.7,40,11,7,22,0.731
+05154024,"Kalkar","Kleve","Düsseldorf",87.9,54,16,13,25,0.614
+05154028,"Kerken","Kleve","Düsseldorf",57.8,36,6,8,23,0.623
+05154032,"Kevelaer","Kleve","Düsseldorf",99.8,111,34,28,50,1.112
+05154036,"Kleve","Kleve","Düsseldorf",97.6,246,69,84,93,2.520
+05154040,"Kranenburg","Kleve","Düsseldorf",76.5,35,7,8,20,0.458
+05154044,"Rees","Kleve","Düsseldorf",109.4,76,18,19,38,0.695
+05154048,"Rheurdt","Kleve","Düsseldorf",30,15,2,2,11,0.5
+05154052,"Straelen","Kleve","Düsseldorf",73.8,85,29,27,29,1.152
+05154056,"Uedem","Kleve","Düsseldorf",60.7,51,29,8,14,0.840
+05154060,"Wachtendonk","Kleve","Düsseldorf",48,29,8,7,14,0.604
+05154064,"Weeze","Kleve","Düsseldorf",79.1,55,16,16,22,0.695
+05158004,"Erkrath","Mettmann","Düsseldorf",26.5,172,43,52,77,6.491
+05158008,"Haan","Mettmann","Düsseldorf",24.2,134,51,31,53,5.537
+05158012,"Heiligenhaus","Mettmann","Düsseldorf",27.3,125,65,14,46,4.579
+05158016,"Hilden","Mettmann","Düsseldorf",26,258,86,75,97,9.923
+05158020,"Langenfeld (Rhld.)","Mettmann","Düsseldorf",42.4,292,85,101,105,6.887
+05158024,"Mettmann","Mettmann","Düsseldorf",42.8,154,34,51,69,3.598
+05158026,"Monheim am Rhein","Mettmann","Düsseldorf",21.9,204,56,72,76,9.315
+05158028,"Ratingen","Mettmann","Düsseldorf",88.1,461,130,174,156,5.233
+05158032,"Velbert","Mettmann","Düsseldorf",74.9,401,186,70,144,5.354
+05158036,"Wülfrath","Mettmann","Düsseldorf",32.1,88,35,17,36,2.741
+05162004,"Dormagen","Rhein-Kreis Neuss","Düsseldorf",85,860,691,57,112,10.118
+05162008,"Grevenbroich","Rhein-Kreis Neuss","Düsseldorf",101.8,898,718,64,116,8.821
+05162012,"Jüchen","Rhein-Kreis Neuss","Düsseldorf",71.8,103,48,13,42,1.435
+05162016,"Kaarst","Rhein-Kreis Neuss","Düsseldorf",38.1,238,125,36,76,6.247
+05162020,"Korschenbroich","Rhein-Kreis Neuss","Düsseldorf",55.2,270,181,28,61,4.891
+05162022,"Meerbusch","Rhein-Kreis Neuss","Düsseldorf",64.3,309,154,55,100,4.806
+05162024,"Neuss","Rhein-Kreis Neuss","Düsseldorf",98.2,2190,1646,274,270,22.301
+05162028,"Rommerskirchen","Rhein-Kreis Neuss","Düsseldorf",60,64,30,10,25,1.067
+05166004,"Brüggen","Viersen","Düsseldorf",60.9,63,22,13,28,1.034
+05166008,"Grefrath","Viersen","Düsseldorf",30.9,46,9,11,26,1.489
+05166012,"Kempen","Viersen","Düsseldorf",68.1,146,46,40,60,2.144
+05166016,"Nettetal","Viersen","Düsseldorf",82.7,140,27,39,73,1.693
+05166020,"Niederkrüchten","Viersen","Düsseldorf",66.9,39,4,9,26,0.583
+05166024,"Schwalmtal","Viersen","Düsseldorf",48,63,16,14,33,1.312
+05166028,"Tönisvorst","Viersen","Düsseldorf",44.2,97,21,24,51,2.195
+05166032,"Viersen","Viersen","Düsseldorf",91.5,299,64,98,137,3.268
+05166036,"Willich","Viersen","Düsseldorf",68.3,199,47,66,87,2.914
+05170004,"Alpen","Wesel","Regionalverband Ruhr",59.2,129,97,10,22,2.179
+05170008,"Dinslaken","Wesel","Regionalverband Ruhr",47.4,414,223,73,117,8.734
+05170012,"Hamminkeln","Wesel","Regionalverband Ruhr",163.7,174,106,20,47,1.063
+05170016,"Hünxe","Wesel","Regionalverband Ruhr",106.5,85,51,10,24,0.798
+05170020,"Kamp-Lintfort","Wesel","Regionalverband Ruhr",62.4,200,95,39,67,3.205
+05170024,"Moers","Wesel","Regionalverband Ruhr",67.8,620,313,130,178,9.145
+05170028,"Neukirchen-Vluyn","Wesel","Regionalverband Ruhr",43,178,109,22,48,4.14
+05170032,"Rheinberg","Wesel","Regionalverband Ruhr",74.8,217,137,26,55,2.901
+05170036,"Schermbeck","Wesel","Regionalverband Ruhr",110.1,76,42,11,24,0.690
+05170040,"Sonsbeck","Wesel","Regionalverband Ruhr",55.6,55,29,10,15,0.989
+05170044,"Voerde (Niederrhein)","Wesel","Regionalverband Ruhr",53.4,247,164,20,62,4.625
+05170048,"Wesel","Wesel","Regionalverband Ruhr",122.3,462,263,92,106,3.778
+05170052,"Xanten","Wesel","Regionalverband Ruhr",72.2,109,53,20,37,1.510
+05314000,"Bonn","Bonn","Köln",141.1,1542,168,808,566,10.928
+05315000,"Köln","Köln","Köln",405.3,6305,2085,2426,1794,15.556
+05316000,"Leverkusen","Leverkusen","Köln",78.5,1822,1312,215,295,23.210
+05334002,"Aachen","Städteregion Aachen","Köln",163,1412,423,529,460,8.663
+05334004,"Alsdorf","Städteregion Aachen","Köln",31.5,170,49,36,85,5.397
+05334008,"Baesweiler","Städteregion Aachen","Köln",27.8,112,43,18,51,4.029
+05334012,"Eschweiler","Städteregion Aachen","Köln",75.7,303,136,67,101,4.003
+05334016,"Herzogenrath","Städteregion Aachen","Köln",33.1,208,92,31,85,6.284
+05334020,"Monschau","Städteregion Aachen","Köln",92.8,56,26,9,22,0.603
+05334024,"Roetgen","Städteregion Aachen","Köln",35.6,28,8,5,15,0.787
+05334028,"Simmerath","Städteregion Aachen","Köln",110.5,75,32,14,29,0.679
+05334032,"Stolberg (Rhld.)","Städteregion Aachen","Köln",98.7,270,130,39,101,2.736
+05334036,"Würselen","Städteregion Aachen","Köln",33.2,187,65,52,70,5.633
+05358004,"Aldenhoven","Düren","Köln",43.9,90,55,10,25,2.050
+05358008,"Düren","Düren","Köln",84.4,959,640,153,166,11.363
+05358012,"Heimbach","Düren","Köln",64.7,14,4,2,8,0.216
+05358016,"Hürtgenwald","Düren","Köln",87.4,44,25,3,16,0.503
+05358020,"Inden","Düren","Köln",35.3,41,25,3,13,1.161
+05358024,"Jülich","Düren","Köln",90.6,329,206,62,61,3.631
+05358028,"Kreuzau","Düren","Köln",41.8,137,98,8,32,3.278
+05358032,"Langerwehe","Düren","Köln",41.9,68,36,5,26,1.623
+05358036,"Linnich","Düren","Köln",65,153,122,6,24,2.354
+05358040,"Merzenich","Düren","Köln",37.9,55,33,3,18,1.451
+05358044,"Nideggen","Düren","Köln",64.7,42,17,6,19,0.649
+05358048,"Niederzier","Düren","Köln",63.3,162,125,10,26,2.559
+05358052,"Nörvenich","Düren","Köln",65.9,52,24,7,21,0.789
+05358056,"Titz","Düren","Köln",68.1,28,8,4,16,0.411
+05358060,"Vettweiß","Düren","Köln",82.3,38,17,3,17,0.462
+05362004,"Bedburg","Rhein-Erft-Kreis","Köln",79.6,139,76,19,44,1.746
+05362008,"Bergheim","Rhein-Erft-Kreis","Köln",96.3,691,516,67,108,7.175
+05362012,"Brühl","Rhein-Erft-Kreis","Köln",36.8,548,418,50,80,14.891
+05362016,"Elsdorf","Rhein-Erft-Kreis","Köln",65.4,253,204,12,38,3.869
+05362020,"Erftstadt","Rhein-Erft-Kreis","Köln",118.8,342,222,35,85,2.879
+05362024,"Frechen","Rhein-Erft-Kreis","Köln",44.4,457,287,79,92,10.293
+05362028,"Hürth","Rhein-Erft-Kreis","Köln",49.7,826,638,79,109,16.620
+05362032,"Kerpen","Rhein-Erft-Kreis","Köln",114.4,705,510,79,117,6.163
+05362036,"Pulheim","Rhein-Erft-Kreis","Köln",71.8,632,490,43,98,8.802
+05362040,"Wesseling","Rhein-Erft-Kreis","Köln",23.1,951,852,32,67,41.169
+05366004,"Bad Münstereifel","Euskirchen","Köln",150.4,80,38,10,32,0.532
+05366008,"Blankenheim","Euskirchen","Köln",148.3,35,14,6,15,0.236
+05366012,"Dahlem","Euskirchen","Köln",94.8,15,5,2,8,0.158
+05366016,"Euskirchen","Euskirchen","Köln",138.7,347,165,77,105,2.502
+05366020,"Hellenthal","Euskirchen","Köln",137.9,87,71,3,14,0.631
+05366024,"Kall","Euskirchen","Köln",65.5,64,33,11,20,0.977
+05366028,"Mechernich","Euskirchen","Köln",135.9,156,77,29,51,1.148
+05366032,"Nettersheim","Euskirchen","Köln",94.1,42,21,5,16,0.446
+05366036,"Schleiden","Euskirchen","Köln",121.7,58,22,12,24,0.477
+05366040,"Weilerswist","Euskirchen","Köln",58.1,76,24,19,33,1.308
+05366044,"Zülpich","Euskirchen","Köln",100.3,123,65,20,38,1.226
+05370004,"Erkelenz","Heinsberg","Köln",117,188,60,48,79,1.607
+05370008,"Gangelt","Heinsberg","Köln",48.8,59,18,17,23,1.209
+05370012,"Geilenkirchen","Heinsberg","Köln",82.9,116,34,32,50,1.399
+05370016,"Heinsberg","Heinsberg","Köln",91.7,211,73,63,76,2.301
+05370020,"Hückelhoven","Heinsberg","Köln",61.1,146,38,36,72,2.390
+05370024,"Selfkant","Heinsberg","Köln",41.8,29,5,5,19,0.694
+05370028,"Übach-Palenberg","Heinsberg","Köln",25.8,128,70,16,43,4.961
+05370032,"Waldfeucht","Heinsberg","Köln",30.2,30,9,5,16,0.993
+05370036,"Wassenberg","Heinsberg","Köln",42.2,63,18,11,35,1.493
+05370040,"Wegberg","Heinsberg","Köln",83.7,93,24,20,49,1.111
+05374004,"Bergneustadt","Oberbergischer Kreis","Köln",37.3,77,33,12,33,2.064
+05374008,"Engelskirchen","Oberbergischer Kreis","Köln",63,94,35,24,35,1.492
+05374012,"Gummersbach","Oberbergischer Kreis","Köln",95.1,279,87,102,90,2.934
+05374016,"Hückeswagen","Oberbergischer Kreis","Köln",50.3,79,43,11,25,1.571
+05374020,"Lindlar","Oberbergischer Kreis","Köln",85.2,104,50,16,38,1.221
+05374024,"Marienheide","Oberbergischer Kreis","Köln",54.7,65,30,11,23,1.188
+05374028,"Morsbach","Oberbergischer Kreis","Köln",55.3,79,52,8,18,1.429
+05374032,"Nümbrecht","Oberbergischer Kreis","Köln",71.7,76,34,12,31,1.060
+05374036,"Radevormwald","Oberbergischer Kreis","Köln",53.7,119,66,16,38,2.216
+05374040,"Reichshof","Oberbergischer Kreis","Köln",114.4,96,47,16,33,0.839
+05374044,"Waldbröl","Oberbergischer Kreis","Köln",63,78,25,18,35,1.238
+05374048,"Wiehl","Oberbergischer Kreis","Köln",53.4,151,79,29,44,2.828
+05374052,"Wipperfürth","Oberbergischer Kreis","Köln",117.7,121,66,18,38,1.028
+05378004,"Bergisch Gladbach","Rheinisch-Bergischer Kreis","Köln",82.9,396,76,125,195,4.777
+05378008,"Burscheid","Rheinisch-Bergischer Kreis","Köln",27.3,80,34,13,34,2.930
+05378012,"Kürten","Rheinisch-Bergischer Kreis","Köln",67.9,60,14,11,35,0.884
+05378016,"Leichlingen (Rhld.)","Rheinisch-Bergischer Kreis","Köln",36.8,76,9,17,49,2.065
+05378020,"Odenthal","Rheinisch-Bergischer Kreis","Köln",39.2,37,3,6,28,0.944
+05378024,"Overath","Rheinisch-Bergischer Kreis","Köln",68.6,92,22,22,47,1.341
+05378028,"Rösrath","Rheinisch-Bergischer Kreis","Köln",38.9,79,10,19,50,2.031
+05378032,"Wermelskirchen","Rheinisch-Bergischer Kreis","Köln",74.8,134,30,43,60,1.791
+05382004,"Alfter","Rhein-Sieg-Kreis","Köln",34.5,69,17,11,42,2
+05382008,"Bad Honnef","Rhein-Sieg-Kreis","Köln",47.8,98,21,33,44,2.050
+05382012,"Bornheim","Rhein-Sieg-Kreis","Köln",81.9,164,33,47,84,2.002
+05382016,"Eitorf","Rhein-Sieg-Kreis","Köln",69.7,73,24,15,34,1.047
+05382020,"Hennef (Sieg)","Rhein-Sieg-Kreis","Köln",105.4,178,52,41,84,1.689
+05382024,"Königswinter","Rhein-Sieg-Kreis","Köln",75.6,138,38,29,71,1.825
+05382028,"Lohmar","Rhein-Sieg-Kreis","Köln",65.5,114,36,24,54,1.740
+05382032,"Meckenheim","Rhein-Sieg-Kreis","Köln",34.8,112,37,31,44,3.218
+05382036,"Much","Rhein-Sieg-Kreis","Köln",77.6,56,21,9,25,0.722
+05382040,"Neunkirchen-Seelscheid","Rhein-Sieg-Kreis","Köln",50.6,66,18,12,36,1.304
+05382044,"Niederkassel","Rhein-Sieg-Kreis","Köln",35.4,121,35,18,67,3.418
+05382048,"Rheinbach","Rhein-Sieg-Kreis","Köln",69.5,98,23,28,47,1.410
+05382052,"Ruppichteroth","Rhein-Sieg-Kreis","Köln",61.3,42,18,5,19,0.685
+05382056,"Sankt Augustin","Rhein-Sieg-Kreis","Köln",34.1,199,38,62,99,5.836
+05382060,"Siegburg","Rhein-Sieg-Kreis","Köln",23.9,203,52,77,74,8.494
+05382064,"Swisttal","Rhein-Sieg-Kreis","Köln",62.2,58,18,8,33,0.932
+05382068,"Troisdorf","Rhein-Sieg-Kreis","Köln",61.5,398,161,105,133,6.472
+05382072,"Wachtberg","Rhein-Sieg-Kreis","Köln",49.5,58,10,12,36,1.172
+05382076,"Windeck","Rhein-Sieg-Kreis","Köln",107.4,56,11,10,34,0.521
+05512000,"Bottrop","Bottrop","Regionalverband Ruhr",99.9,473,147,118,208,4.735
+05513000,"Gelsenkirchen","Gelsenkirchen","Regionalverband Ruhr",105,2898,2133,296,469,27.6
+05515000,"Münster","Münster","Münster",302.4,1447,155,752,540,4.785
+05554004,"Ahaus","Borken","Münster",150.7,231,100,61,70,1.533
+05554008,"Bocholt","Borken","Münster",119,381,161,92,128,3.202
+05554012,"Borken","Borken","Münster",152.4,216,74,67,75,1.417
+05554016,"Gescher","Borken","Münster",80.6,102,41,30,31,1.266
+05554020,"Gronau (Westf.)","Borken","Münster",78.7,208,65,55,89,2.643
+05554024,"Heek","Borken","Münster",69.1,50,29,6,15,0.724
+05554028,"Heiden","Borken","Münster",53.7,37,16,6,15,0.689
+05554032,"Isselburg","Borken","Münster",42.4,52,24,9,20,1.226
+05554036,"Legden","Borken","Münster",56.2,32,13,6,13,0.569
+05554040,"Raesfeld","Borken","Münster",57.8,44,17,7,21,0.761
+05554044,"Reken","Borken","Münster",77.6,62,22,14,26,0.799
+05554048,"Rhede","Borken","Münster",78.7,93,37,21,34,1.182
+05554052,"Schöppingen","Borken","Münster",68.7,32,13,7,12,0.466
+05554056,"Stadtlohn","Borken","Münster",78.8,104,50,18,37,1.320
+05554060,"Südlohn","Borken","Münster",45.3,50,27,6,17,1.104
+05554064,"Velen","Borken","Münster",71,49,18,9,22,0.69
+05554068,"Vreden","Borken","Münster",135.2,151,92,19,40,1.117
+05558004,"Ascheberg","Coesfeld","Münster",106.3,56,15,14,28,0.527
+05558008,"Billerbeck","Coesfeld","Münster",90.9,44,11,12,21,0.484
+05558012,"Coesfeld","Coesfeld","Münster",141,183,48,68,67,1.298
+05558016,"Dülmen","Coesfeld","Münster",184.2,168,39,45,84,0.912
+05558020,"Havixbeck","Coesfeld","Münster",53.2,36,3,11,22,0.677
+05558024,"Lüdinghausen","Coesfeld","Münster",140,88,20,24,44,0.629
+05558028,"Nordkirchen","Coesfeld","Münster",52.3,39,7,14,19,0.746
+05558032,"Nottuln","Coesfeld","Münster",85.1,63,12,16,35,0.740
+05558036,"Olfen","Coesfeld","Münster",52.3,42,9,10,23,0.803
+05558040,"Rosendahl","Coesfeld","Münster",93.8,41,15,6,20,0.437
+05558044,"Senden","Coesfeld","Münster",109,72,16,20,36,0.661
+05562004,"Castrop-Rauxel","Recklinghausen","Regionalverband Ruhr",51.6,398,208,61,128,7.713
+05562008,"Datteln","Recklinghausen","Regionalverband Ruhr",65.6,193,93,38,62,2.942
+05562012,"Dorsten","Recklinghausen","Regionalverband Ruhr",170.8,428,218,78,132,2.506
+05562014,"Gladbeck","Recklinghausen","Regionalverband Ruhr",36,510,322,56,132,14.167
+05562016,"Haltern am See","Recklinghausen","Regionalverband Ruhr",158.4,188,93,28,67,1.187
+05562020,"Herten","Recklinghausen","Regionalverband Ruhr",37,389,219,63,107,10.514
+05562024,"Marl","Recklinghausen","Regionalverband Ruhr",87.4,862,635,75,152,9.863
+05562028,"Oer-Erkenschwick","Recklinghausen","Regionalverband Ruhr",38.6,317,244,18,55,8.212
+05562032,"Recklinghausen","Recklinghausen","Regionalverband Ruhr",66.3,705,338,165,202,10.633
+05562036,"Waltrop","Recklinghausen","Regionalverband Ruhr",46.8,164,88,25,51,3.504
+05566004,"Altenberge","Steinfurt","Münster",62.5,69,38,13,18,1.104
+05566008,"Emsdetten","Steinfurt","Münster",71.7,198,92,42,63,2.762
+05566012,"Greven","Steinfurt","Münster",139.7,181,52,62,67,1.296
+05566016,"Hörstel","Steinfurt","Münster",107.1,116,59,21,35,1.083
+05566020,"Hopsten","Steinfurt","Münster",99.6,36,18,5,14,0.361
+05566024,"Horstmar","Steinfurt","Münster",44.7,50,31,5,13,1.119
+05566028,"Ibbenbüren","Steinfurt","Münster",108,241,89,62,91,2.231
+05566032,"Ladbergen","Steinfurt","Münster",52.2,29,9,8,12,0.556
+05566036,"Laer","Steinfurt","Münster",35.2,22,7,3,12,0.625
+05566040,"Lengerich","Steinfurt","Münster",90.2,157,94,23,39,1.741
+05566044,"Lienen","Steinfurt","Münster",73,28,10,4,15,0.384
+05566048,"Lotte","Steinfurt","Münster",37.2,66,31,10,24,1.774
+05566052,"Metelen","Steinfurt","Münster",40.2,26,10,5,11,0.647
+05566056,"Mettingen","Steinfurt","Münster",40.3,83,54,9,20,2.060
+05566060,"Neuenkirchen","Steinfurt","Münster",48.5,68,35,9,24,1.402
+05566064,"Nordwalde","Steinfurt","Münster",51.5,49,23,8,18,0.951
+05566068,"Ochtrup","Steinfurt","Münster",105.3,113,55,22,36,1.073
+05566072,"Recke","Steinfurt","Münster",53.4,42,14,9,20,0.787
+05566076,"Rheine","Steinfurt","Münster",144.5,392,143,114,135,2.713
+05566080,"Saerbeck","Steinfurt","Münster",59,40,22,6,12,0.678
+05566084,"Steinfurt","Steinfurt","Münster",110.9,145,39,45,61,1.307
+05566088,"Tecklenburg","Steinfurt","Münster",70.8,43,9,18,16,0.607
+05566092,"Westerkappeln","Steinfurt","Münster",85.8,52,19,13,19,0.606
+05566096,"Wettringen","Steinfurt","Münster",57.2,40,19,6,15,0.699
+05570004,"Ahlen","Warendorf","Münster",122.6,226,77,56,92,1.843
+05570008,"Beckum","Warendorf","Münster",111,202,95,42,65,1.82
+05570012,"Beelen","Warendorf","Münster",31.3,36,21,4,11,1.150
+05570016,"Drensteinfurt","Warendorf","Münster",105.3,48,10,9,29,0.456
+05570020,"Ennigerloh","Warendorf","Münster",125.4,103,54,14,35,0.821
+05570024,"Everswinkel","Warendorf","Münster",69,42,17,9,17,0.609
+05570028,"Oelde","Warendorf","Münster",102,187,100,34,53,1.833
+05570032,"Ostbevern","Warendorf","Münster",89,56,29,8,20,0.629
+05570036,"Sassenberg","Warendorf","Münster",77.9,91,58,8,25,1.168
+05570040,"Sendenhorst","Warendorf","Münster",96.5,71,33,14,25,0.736
+05570044,"Telgte","Warendorf","Münster",90.4,91,33,23,35,1.007
+05570048,"Wadersloh","Warendorf","Münster",116.6,45,15,8,22,0.386
+05570052,"Warendorf","Warendorf","Münster",176.3,162,40,56,66,0.919
+05711000,"Bielefeld","Bielefeld","Detmold",258.2,1619,451,587,581,6.270
+05754004,"Borgholzhausen","Gütersloh","Detmold",56.2,54,30,9,15,0.961
+05754008,"Gütersloh","Gütersloh","Detmold",111.6,585,219,190,176,5.242
+05754012,"Halle (Westf.)","Gütersloh","Detmold",69.5,166,102,26,37,2.388
+05754016,"Harsewinkel","Gütersloh","Detmold",100.1,159,87,27,45,1.588
+05754020,"Herzebrock-Clarholz","Gütersloh","Detmold",78.8,98,58,11,29,1.244
+05754024,"Langenberg","Gütersloh","Detmold",38.1,34,14,5,15,0.892
+05754028,"Rheda-Wiedenbrück","Gütersloh","Detmold",86.6,347,216,47,84,4.007
+05754032,"Rietberg","Gütersloh","Detmold",110,186,105,29,53,1.691
+05754036,"Schloß Holte-Stukenbrock","Gütersloh","Detmold",67.5,137,70,20,46,2.030
+05754040,"Steinhagen","Gütersloh","Detmold",56.1,111,59,17,36,1.979
+05754044,"Verl","Gütersloh","Detmold",70.9,256,182,28,45,3.611
+05754048,"Versmold","Gütersloh","Detmold",85.4,103,46,20,38,1.206
+05754052,"Werther (Westf.)","Gütersloh","Detmold",35.3,49,22,8,19,1.388
+05758004,"Bünde","Herford","Detmold",59.6,189,69,39,81,3.171
+05758008,"Enger","Herford","Detmold",41,73,23,14,36,1.78
+05758012,"Herford","Herford","Detmold",78.8,345,111,116,118,4.378
+05758016,"Hiddenhausen","Herford","Detmold",24.1,70,20,16,34,2.905
+05758020,"Kirchlengern","Herford","Detmold",33.6,87,45,13,29,2.589
+05758024,"Löhne","Herford","Detmold",59.4,168,62,34,71,2.828
+05758028,"Rödinghausen","Herford","Detmold",36,56,33,6,18,1.556
+05758032,"Spenge","Herford","Detmold",40,49,15,8,26,1.225
+05758036,"Vlotho","Herford","Detmold",76.5,89,44,13,32,1.163
+05762004,"Bad Driburg","Höxter","Detmold",115.2,84,26,25,33,0.729
+05762008,"Beverungen","Höxter","Detmold",97.8,59,29,7,22,0.603
+05762012,"Borgentreich","Höxter","Detmold",138.4,32,13,4,15,0.231
+05762016,"Brakel","Höxter","Detmold",173.2,83,36,18,28,0.479
+05762020,"Höxter","Höxter","Detmold",157,151,65,36,49,0.962
+05762024,"Marienmünster","Höxter","Detmold",64,22,11,3,8,0.344
+05762028,"Nieheim","Höxter","Detmold",79.4,23,9,3,11,0.290
+05762032,"Steinheim","Höxter","Detmold",75.5,59,26,11,21,0.781
+05762036,"Warburg","Höxter","Detmold",167.9,132,67,24,41,0.786
+05762040,"Willebadessen","Höxter","Detmold",127.7,23,5,4,14,0.180
+05766004,"Augustdorf","Lippe","Detmold",42,38,16,6,17,0.905
+05766008,"Bad Salzuflen","Lippe","Detmold",99.8,212,66,51,94,2.124
+05766012,"Barntrup","Lippe","Detmold",59.5,34,15,5,15,0.571
+05766016,"Blomberg","Lippe","Detmold",98.7,113,73,12,27,1.145
+05766020,"Detmold","Lippe","Detmold",128.7,329,75,124,130,2.556
+05766024,"Dörentrup","Lippe","Detmold",49.4,26,6,8,13,0.526
+05766028,"Extertal","Lippe","Detmold",92.1,41,14,7,20,0.445
+05766032,"Horn-Bad Meinberg","Lippe","Detmold",89.8,55,10,15,30,0.612
+05766036,"Kalletal","Lippe","Detmold",111.8,39,10,6,23,0.349
+05766040,"Lage","Lippe","Detmold",75.7,110,25,23,61,1.453
+05766044,"Lemgo","Lippe","Detmold",100.5,194,67,57,70,1.930
+05766048,"Leopoldshöhe","Lippe","Detmold",36.8,67,27,10,30,1.821
+05766052,"Lügde","Lippe","Detmold",88.1,29,8,5,16,0.329
+05766056,"Oerlinghausen","Lippe","Detmold",32.7,62,24,8,30,1.896
+05766060,"Schieder-Schwalenberg","Lippe","Detmold",59.7,27,8,4,14,0.452
+05766064,"Schlangen","Lippe","Detmold",75.7,28,7,4,16,0.370
+05770004,"Bad Oeynhausen","Minden-Lübbecke","Detmold",64.6,231,54,88,89,3.576
+05770008,"Espelkamp","Minden-Lübbecke","Detmold",84.5,128,56,27,45,1.515
+05770012,"Hille","Minden-Lübbecke","Detmold",102.8,53,16,9,28,0.516
+05770016,"Hüllhorst","Minden-Lübbecke","Detmold",44.6,49,14,11,23,1.099
+05770020,"Lübbecke","Minden-Lübbecke","Detmold",64.8,141,56,37,47,2.176
+05770024,"Minden","Minden-Lübbecke","Detmold",100.8,412,121,143,147,4.087
+05770028,"Petershagen","Minden-Lübbecke","Detmold",210.7,72,15,13,44,0.342
+05770032,"Porta Westfalica","Minden-Lübbecke","Detmold",104.5,145,45,36,64,1.388
+05770036,"Preußisch Oldendorf","Minden-Lübbecke","Detmold",68.2,40,9,9,22,0.587
+05770040,"Rahden","Minden-Lübbecke","Detmold",136.6,59,19,12,28,0.432
+05770044,"Stemwede","Minden-Lübbecke","Detmold",165.4,71,34,14,24,0.429
+05774004,"Altenbeken","Paderborn","Detmold",75.8,26,6,4,16,0.343
+05774008,"Bad Lippspringe","Paderborn","Detmold",51,63,15,17,30,1.235
+05774012,"Borchen","Paderborn","Detmold",77,44,11,8,24,0.571
+05774016,"Büren","Paderborn","Detmold",170.3,88,29,21,38,0.517
+05774020,"Delbrück","Paderborn","Detmold",156.7,143,65,21,56,0.913
+05774024,"Hövelhof","Paderborn","Detmold",70.2,88,47,12,29,1.254
+05774028,"Lichtenau","Paderborn","Detmold",191.9,40,15,6,19,0.208
+05774032,"Paderborn","Paderborn","Detmold",179.1,764,202,288,274,4.266
+05774036,"Salzkotten","Paderborn","Detmold",109.2,107,41,22,45,0.980
+05774040,"Bad Wünnenberg","Paderborn","Detmold",161,59,24,13,22,0.366
+05911000,"Bochum","Bochum","Regionalverband Ruhr",144.2,1784,602,554,628,12.372
+05913000,"Dortmund","Dortmund","Regionalverband Ruhr",278.6,2800,763,981,1057,10.050
+05914000,"Hagen","Hagen","Regionalverband Ruhr",159.7,1349,789,226,333,8.447
+05915000,"Hamm","Hamm","Regionalverband Ruhr",226.9,909,381,213,315,4.006
+05916000,"Herne","Herne","Regionalverband Ruhr",51.3,640,190,177,273,12.476
+05954004,"Breckerfeld","Ennepe-Ruhr-Kreis","Regionalverband Ruhr",58.5,39,19,5,15,0.667
+05954008,"Ennepetal","Ennepe-Ruhr-Kreis","Regionalverband Ruhr",57.7,260,178,30,52,4.506
+05954012,"Gevelsberg","Ennepe-Ruhr-Kreis","Regionalverband Ruhr",26.5,160,82,26,53,6.038
+05954016,"Hattingen","Ennepe-Ruhr-Kreis","Regionalverband Ruhr",71.4,210,74,44,93,2.941
+05954020,"Herdecke","Ennepe-Ruhr-Kreis","Regionalverband Ruhr",22.9,103,36,27,40,4.498
+05954024,"Schwelm","Ennepe-Ruhr-Kreis","Regionalverband Ruhr",20.5,140,57,34,49,6.829
+05954028,"Sprockhövel","Ennepe-Ruhr-Kreis","Regionalverband Ruhr",47.7,125,64,18,42,2.621
+05954032,"Wetter (Ruhr)","Ennepe-Ruhr-Kreis","Regionalverband Ruhr",31.7,196,118,32,46,6.183
+05954036,"Witten","Ennepe-Ruhr-Kreis","Regionalverband Ruhr",72.5,492,227,104,161,6.786
+05958004,"Arnsberg","Hochsauerlandkreis","Arnsberg",192.4,510,283,96,131,2.651
+05958008,"Bestwig","Hochsauerlandkreis","Arnsberg",69.2,72,45,9,18,1.040
+05958012,"Brilon","Hochsauerlandkreis","Arnsberg",228,246,169,33,45,1.079
+05958016,"Eslohe (Sauerland)","Hochsauerlandkreis","Arnsberg",113.2,62,41,6,15,0.548
+05958020,"Hallenberg","Hochsauerlandkreis","Arnsberg",65.4,39,28,3,8,0.596
+05958024,"Marsberg","Hochsauerlandkreis","Arnsberg",181.6,117,63,21,34,0.644
+05958028,"Medebach","Hochsauerlandkreis","Arnsberg",125.4,51,31,6,14,0.407
+05958032,"Meschede","Hochsauerlandkreis","Arnsberg",217.4,256,161,43,52,1.178
+05958036,"Olsberg","Hochsauerlandkreis","Arnsberg",117.7,110,65,19,26,0.935
+05958040,"Schmallenberg","Hochsauerlandkreis","Arnsberg",302.1,179,106,29,43,0.593
+05958044,"Sundern (Sauerland)","Hochsauerlandkreis","Arnsberg",192.6,210,142,20,48,1.090
+05958048,"Winterberg","Hochsauerlandkreis","Arnsberg",147.7,59,20,16,23,0.399
+05962004,"Altena","Märkischer Kreis","Arnsberg",44.1,114,77,8,29,2.585
+05962008,"Balve","Märkischer Kreis","Arnsberg",74.8,60,35,6,20,0.802
+05962012,"Halver","Märkischer Kreis","Arnsberg",77,124,83,13,29,1.61
+05962016,"Hemer","Märkischer Kreis","Arnsberg",67.1,219,128,30,61,3.264
+05962020,"Herscheid","Märkischer Kreis","Arnsberg",58.9,40,25,3,12,0.679
+05962024,"Iserlohn","Märkischer Kreis","Arnsberg",124.9,540,274,105,161,4.323
+05962028,"Kierspe","Märkischer Kreis","Arnsberg",71.3,83,42,13,29,1.164
+05962032,"Lüdenscheid","Märkischer Kreis","Arnsberg",87.3,514,294,95,125,5.888
+05962036,"Meinerzhagen","Märkischer Kreis","Arnsberg",114.9,175,126,14,35,1.523
+05962040,"Menden (Sauerland)","Märkischer Kreis","Arnsberg",85.7,274,144,38,91,3.197
+05962044,"Nachrodt-Wiblingwerde","Märkischer Kreis","Arnsberg",28.8,24,11,2,11,0.833
+05962048,"Neuenrade","Märkischer Kreis","Arnsberg",54,80,53,6,20,1.481
+05962052,"Plettenberg","Märkischer Kreis","Arnsberg",96.7,210,148,19,43,2.172
+05962056,"Schalksmühle","Märkischer Kreis","Arnsberg",38,82,59,5,18,2.158
+05962060,"Werdohl","Märkischer Kreis","Arnsberg",33.3,107,64,13,31,3.213
+05966004,"Attendorn","Olpe","Arnsberg",97.9,218,154,23,41,2.227
+05966008,"Drolshagen","Olpe","Arnsberg",66.9,59,31,7,21,0.882
+05966012,"Finnentrop","Olpe","Arnsberg",103.9,102,66,6,30,0.982
+05966016,"Kirchhundem","Olpe","Arnsberg",148.1,74,48,5,20,0.500
+05966020,"Lennestadt","Olpe","Arnsberg",134.8,140,77,21,42,1.039
+05966024,"Olpe","Olpe","Arnsberg",85.2,169,75,51,43,1.984
+05966028,"Wenden","Olpe","Arnsberg",72.5,114,64,16,34,1.572
+05970004,"Bad Berleburg","Siegen-Wittgenstein","Arnsberg",274.8,160,109,19,32,0.582
+05970008,"Burbach","Siegen-Wittgenstein","Arnsberg",79.7,157,117,15,25,1.970
+05970012,"Erndtebrück","Siegen-Wittgenstein","Arnsberg",71.3,68,50,6,12,0.954
+05970016,"Freudenberg","Siegen-Wittgenstein","Arnsberg",54.5,102,54,18,30,1.872
+05970020,"Hilchenbach","Siegen-Wittgenstein","Arnsberg",80.6,101,68,7,25,1.253
+05970024,"Kreuztal","Siegen-Wittgenstein","Arnsberg",70.7,213,134,24,54,3.013
+05970028,"Bad Laasphe","Siegen-Wittgenstein","Arnsberg",135.5,68,37,8,23,0.502
+05970032,"Netphen","Siegen-Wittgenstein","Arnsberg",137.2,157,101,16,40,1.144
+05970036,"Neunkirchen","Siegen-Wittgenstein","Arnsberg",39.5,109,74,13,22,2.759
+05970040,"Siegen","Siegen-Wittgenstein","Arnsberg",114.4,608,244,185,180,5.315
+05970044,"Wilnsdorf","Siegen-Wittgenstein","Arnsberg",71.8,121,72,14,35,1.685
+05974004,"Anröchte","Soest","Arnsberg",73.6,69,44,7,18,0.938
+05974008,"Bad Sassendorf","Soest","Arnsberg",62.8,45,13,11,21,0.717
+05974012,"Ense","Soest","Arnsberg",51,85,56,7,22,1.667
+05974016,"Erwitte","Soest","Arnsberg",89.1,83,42,13,29,0.932
+05974020,"Geseke","Soest","Arnsberg",97.6,106,56,13,37,1.086
+05974024,"Lippetal","Soest","Arnsberg",125.9,42,14,7,21,0.334
+05974028,"Lippstadt","Soest","Arnsberg",113,475,257,98,120,4.204
+05974032,"Möhnesee","Soest","Arnsberg",123.9,45,17,8,20,0.363
+05974036,"Rüthen","Soest","Arnsberg",157.8,54,31,4,18,0.342
+05974040,"Soest","Soest","Arnsberg",85.7,303,133,86,84,3.536
+05974044,"Warstein","Soest","Arnsberg",157.7,191,128,20,44,1.211
+05974048,"Welver","Soest","Arnsberg",85.4,31,6,4,21,0.363
+05974052,"Werl","Soest","Arnsberg",75.9,137,52,33,52,1.805
+05974056,"Wickede (Ruhr)","Soest","Arnsberg",25.2,84,55,9,20,3.333
+05978004,"Bergkamen","Unna","Regionalverband Ruhr",43.8,194,76,32,86,4.429
+05978008,"Bönen","Unna","Regionalverband Ruhr",37.7,123,68,23,31,3.263
+05978012,"Fröndenberg/Ruhr","Unna","Regionalverband Ruhr",55.5,81,33,12,36,1.459
+05978016,"Holzwickede","Unna","Regionalverband Ruhr",22.8,113,45,36,31,4.956
+05978020,"Kamen","Unna","Regionalverband Ruhr",40.9,182,68,40,74,4.450
+05978024,"Lünen","Unna","Regionalverband Ruhr",59.2,403,172,81,151,6.807
+05978028,"Schwerte","Unna","Regionalverband Ruhr",56.4,211,90,41,80,3.741
+05978032,"Selm","Unna","Regionalverband Ruhr",60.2,104,41,17,45,1.728
+05978036,"Unna","Unna","Regionalverband Ruhr",88.3,325,108,115,102,3.681
+05978040,"Werne","Unna","Regionalverband Ruhr",76,170,83,34,53,2.237
